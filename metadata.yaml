@@ -1,0 +1,31 @@
+_repo: Army-and-Navy-Uniforms-and-Insignia-How-to-Know-Rank-Corps-and-Service-in-the-Military-and-Na__62909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Dion
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '52184'
+    url: http://www.gutenberg.org/2009/agents/52184
+    wikipedia: https://en.wikipedia.org/wiki/Dion_Williams
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62909'
+  lccn: '18002798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Insignia'
+- !lcsh 'United States. Army -- Insignia'
+- !lcsh 'Military uniforms'
+- !lcsh 'Armies -- Insignia'
+- !lcsh 'Navies -- Insignia'
+- !lcc 'U'
+- GITenberg
+title: "Army and Navy Uniforms and Insignia\r\nHow to Know Rank, Corps and Service\
+  \ in the Military and Naval Forces of the United States and Foreign Countries"
+url: http://www.gutenberg.org/ebooks/62909
